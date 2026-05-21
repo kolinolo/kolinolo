@@ -6,7 +6,7 @@ Gosto de criar ferramentas e reutiliza-las desenas de veses, otimizando a cada u
 
 Eu sou o clássico tipo de programador que transforma 5 minutos de trabalho repetitivo em 10 de programação, e eu amo isso.
 
-Ultimamente tenho estudado bastante Pandas, Flask e um pouco de Plotly.
+Eu uso meu conhecimento em Python pra facilitar a minha vida em todos os outros progetos, ultimamente tenho usado para automatizao o Restic por exemplo.
 
 Não consigo pensar sem música no ouvido, e é nisso que são resumidos meus dias, Música Café Códigos.
 
