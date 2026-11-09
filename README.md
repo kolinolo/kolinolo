@@ -11,6 +11,6 @@ Eu uso meu conhecimento em Python pra facilitar a minha vida em todos os outros 
 Ultimamente, tenho focado em aprender mais sobre servidores Linux e hospedagem tanto bare metal quanto virtualizada,
 alêm de gerenciar um del R910 com Proxmox, me tornei o "cara do TI" que carrega um Ventoy no bolso cheio de distros 
 
-Não consigo pensar sem música no ouvido, e é nisso que são resumidos meus dias, Música Café Códigos.
+Não consigo pensar sem música no ouvido, e é nisso que são resumidos meus dias: Música, Café, 3 a 6 servidores diferentes e Códigos.
 
 @Koli_nolo (instagran)
