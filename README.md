@@ -8,6 +8,9 @@ Eu sou o clássico tipo de programador que transforma 5 minutos de trabalho repe
 
 Eu uso meu conhecimento em Python pra facilitar a minha vida em todos os outros projetos, ultimamente tenho usado para automatizao o Restic por exemplo.
 
+Ultimamente, tenho focado em aprender mais sobre servidores Linux e Hospedagem tanto bare metal quanto virtualizada
+alêm de gerenciar um del R910 com proxmox, me tornei o "cara do TI" que carrega um ventoy no bolso cheio de distros 
+
 Não consigo pensar sem música no ouvido, e é nisso que são resumidos meus dias, Música Café Códigos.
 
 @Koli_nolo (instagran)
