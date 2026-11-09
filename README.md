@@ -6,10 +6,10 @@ Gosto de criar ferramentas e reutiliza-las desenas de veses, otimizando a cada u
 
 Eu sou o clássico tipo de programador que transforma 5 minutos de trabalho repetitivo em 10 de programação, e eu amo isso.
 
-Eu uso meu conhecimento em Python pra facilitar a minha vida em todos os outros projetos, ultimamente tenho usado para automatizao o Restic por exemplo.
+Eu uso meu conhecimento em Python pra facilitar a minha vida em todos os outros projetos, como na automação do Restic por exemplo.
 
-Ultimamente, tenho focado em aprender mais sobre servidores Linux e Hospedagem tanto bare metal quanto virtualizada
-alêm de gerenciar um del R910 com proxmox, me tornei o "cara do TI" que carrega um ventoy no bolso cheio de distros 
+Ultimamente, tenho focado em aprender mais sobre servidores Linux e hospedagem tanto bare metal quanto virtualizada,
+alêm de gerenciar um del R910 com Proxmox, me tornei o "cara do TI" que carrega um Ventoy no bolso cheio de distros 
 
 Não consigo pensar sem música no ouvido, e é nisso que são resumidos meus dias, Música Café Códigos.
 
